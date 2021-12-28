@@ -1,0 +1,9 @@
+body {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.navigation {
+    font-size: 36px;
+    font-weight: bold;
+}
